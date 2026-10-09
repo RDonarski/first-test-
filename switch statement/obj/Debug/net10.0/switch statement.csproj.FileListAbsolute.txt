@@ -1,0 +1,14 @@
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\switch statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\switch statement.AssemblyInfoInputs.cache
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\switch statement.AssemblyInfo.cs
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\switch statement.csproj.CoreCompileInputs.cache
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\bin\Debug\net10.0\switch statement.exe
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\bin\Debug\net10.0\switch statement.deps.json
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\bin\Debug\net10.0\switch statement.runtimeconfig.json
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\bin\Debug\net10.0\switch statement.dll
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\bin\Debug\net10.0\switch statement.pdb
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\switch statement.dll
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\refint\switch statement.dll
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\switch statement.pdb
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\switch statement.genruntimeconfig.cache
+C:\Users\RoseDonarski\OneDrive - WLP\classes\cs\Computer Science 12a-CoA 2026 WLG - Rose Donarski - RoseDonarski\source\switch statement\switch statement\obj\Debug\net10.0\ref\switch statement.dll
